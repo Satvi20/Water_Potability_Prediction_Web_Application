@@ -5,7 +5,7 @@ import streamlit as st
 #loading the saved model
 # loaded_model = pickle.load(open('D:/Cloud Project/trained_model.sav','rb'))
 # loaded_model = pickle.load(open('trained_final.sav','rb'))
-loaded_model = pickle.load(open('/Cloud/trained_final.pkl','rb'))
+loaded_model = pickle.load(open('Cloud/trained_final.pkl','rb'))
 # /app/water_potability_prediction_web_application/Cloud/
 
 
